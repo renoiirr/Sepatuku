@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sepatuku</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">About</string>
+    <string name="price">Rp.%d</string>
+    <string name="descr">Pilihan sempurna untuk gaya kasual yang trendi dan kenyamanan sepanjang hari. Didesain dengan perpaduan estetika modern dan teknologi terkini, sepatu ini menghadirkan kombinasi yang luar biasa antara fungsionalitas dan gaya. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp.%d</string>
+    <string name="total_order">Total pesanan : Rp.%d</string>
+    <string name="back">Back</string>
+    <string name="dicoding_Item">Dicoding Item</string>
+    <string name="share_message">Halo, aku baru ingin memesan sepatu</string>
+    <string name="search">search</string>
+</resources>
